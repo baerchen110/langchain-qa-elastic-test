@@ -1,0 +1,17 @@
+beautifulsoup4
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+chainlit
+ctransformers
+elasticsearch
+lxml
+tiktoken
+streamlit
+openai
+watchdog
